@@ -18,11 +18,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -31,7 +26,7 @@
 We are all struggling with COVID-19 since its onset and even though the vaccine is on its way, it’s not enough to rest our fears, panic and anxiety as to how we should prevent ourselves from getting infected. Due to this many applications are available that help us broaden our knowledge about COVID. Many apps use contact tracing, exposure features and prevention guides. This project uses a unique feature of volunteer centre where, volunteers can connect with Seniors and provide help to them or redirect them to appropriate help centres.
 
 <!-- BUILT WITH -->
-##Built With
+## Built With
 * Figma
 
 <!-- GETTING STARTED -->
@@ -64,4 +59,4 @@ Some of the ways this project can be used are as follows:
 * See guides for prevention of covid
 * Use accessibility feature for voice over of the screens - for accessible users
 * Create an account or login to chat with or call a volunteer for help or become a volunteer
-_For more examples, please refer to the [Documentation](https://)_
+_For more examples, please refer to the [Documentation](https://https://github.com/sheemasiddiqui/Covid19App/blob/main/README.md)_
