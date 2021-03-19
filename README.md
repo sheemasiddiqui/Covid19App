@@ -62,4 +62,14 @@ Some of the ways this project can be used are as follows:
 * See guides for prevention of covid
 * Use accessibility feature for voice over of the screens - for accessible users
 * Create an account or login to chat with or call a volunteer for help or become a volunteer
+
+
+![image](https://user-images.githubusercontent.com/54964531/111852126-3b17b180-88ec-11eb-9657-c0e38db110ac.png)
+
+![image](https://user-images.githubusercontent.com/54964531/111852143-44088300-88ec-11eb-802e-878a76fecd8c.png)
+
+![image](https://user-images.githubusercontent.com/54964531/111852150-4a96fa80-88ec-11eb-9066-bf4b81b16758.png)
+
+![image](https://user-images.githubusercontent.com/54964531/111852158-508cdb80-88ec-11eb-90e2-c363615ab5d3.png)
+
 _For more examples, please refer to the [Documentation](https://https://github.com/sheemasiddiqui/Covid19App/blob/main/README.md)_
