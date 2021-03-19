@@ -30,7 +30,7 @@ We are all struggling with COVID-19 since its onset and even though the vaccine 
 
 <!-- BUILT WITH -->
 ## Built With
-* FIGMA You can download it [here](https://https://www.figma.com/downloads/)
+* FIGMA, which you can download it [here](https://https://www.figma.com/downloads/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
