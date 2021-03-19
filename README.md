@@ -23,6 +23,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+![image](https://user-images.githubusercontent.com/54964531/111852021-dd836500-88eb-11eb-8357-f328f0a1ef77.png)
+
 We are all struggling with COVID-19 since its onset and even though the vaccine is on its way, it’s not enough to rest our fears, panic and anxiety as to how we should prevent ourselves from getting infected. Due to this many applications are available that help us broaden our knowledge about COVID. Many apps use contact tracing, exposure features and prevention guides. This project uses a unique feature of volunteer centre where, volunteers can connect with Seniors and provide help to them or redirect them to appropriate help centres.
 
 <!-- BUILT WITH -->
