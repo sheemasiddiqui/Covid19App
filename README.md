@@ -17,8 +17,8 @@
         <li><a href="#running-the-app">Running the App</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#new-desired-functionalities">New Desired Functionalities</a></li>
+    <li><a href="#usage">Usage</a></li>
   </ol>
 </details>
 
