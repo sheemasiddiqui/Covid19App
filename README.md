@@ -54,6 +54,9 @@ To get this project up and running follow these simple example steps.
 8. Seniors can have a voice call or text chat with volunteers in case they need help. They can also call 911 for emergency help if need be
 9. To watch a demo of the workings of the app, [click here](https://)
 
+<!-- NEW DESIRABLE FUNCTIONALITIES -->
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
