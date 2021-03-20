@@ -55,7 +55,13 @@ To get this project up and running follow these simple example steps.
 9. To watch a demo of the workings of the app, [click here](https://)
 
 <!-- NEW DESIRABLE FUNCTIONALITIES -->
-
+## New Desired Functionalities
+1. Emergency call for 911
+2. Volunteer support for Seniors on immediate health or other concerns
+3. Voice Call
+4. Text Chat
+5. Accessibility Feature for Special needs
+6. Privacy in terms of User Account creation 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
