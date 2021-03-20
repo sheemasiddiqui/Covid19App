@@ -31,7 +31,7 @@ We are all struggling with COVID-19 since its onset and even though the vaccine 
 
 <!-- BUILT WITH -->
 ## Built With
-* FIGMA, which you can download it [here](https://https://www.figma.com/downloads/)
+* FIGMA, which you can download it [here](https://www.figma.com/downloads/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -40,7 +40,7 @@ To get this project up and running follow these simple example steps.
 
 ### Prerequisites
 
-1. Install Figma [here](https://https://www.figma.com/downloads/) if you haven't already done so and click on the link given [here](https://https://www.figma.com/file/Z094N8hb5Z9qprQoJ1mpBv/Covid-Help-Part2?node-id=0%3A1 )
+1. Install Figma [here](https://www.figma.com/downloads/) if you haven't already done so and click on the link given [here](https://www.figma.com/file/Z094N8hb5Z9qprQoJ1mpBv/Covid-Help-Part2?node-id=0%3A1 )
 2. The link will take you to the project and you can navigate through the screens 
 
 ### Running the App
