@@ -19,6 +19,7 @@
     </li>
     <li><a href="#new-desired-functionalities">New Desired Functionalities</a></li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#important-links">Important Links</a></li>
   </ol>
 </details>
 
@@ -83,4 +84,8 @@ Some of the ways this project can be used are as follows:
 
 ![image](https://user-images.githubusercontent.com/54964531/111852158-508cdb80-88ec-11eb-90e2-c363615ab5d3.png)
 
-_For more examples, please refer to the [Documentation](https://https://github.com/sheemasiddiqui/Covid19App/blob/main/README.md)_
+<!-- Important Links -->
+## Important Links
+* YouTube Link to App Demo [Covid-Help](https://youtu.be/uSRfV1ef7DI)
+* Public Figma URL [Figma-Covid-App](https://www.figma.com/file/Z094N8hb5Z9qprQoJ1mpBv/Covid-Help-Part2?node-id=0%3A1) 
+* _For more examples, please refer to the [Documentation](https://https://github.com/sheemasiddiqui/Covid19App/blob/main/README.md)_
