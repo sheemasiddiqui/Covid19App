@@ -53,7 +53,7 @@ To get this project up and running follow these simple example steps.
 6. Volunteer Centre icon navigates to the Volunteer portal, where Volunteers can receive calls and text seniors who need Covid help
 7. Senior Centre leads to Seniors’ Portal where they can register and/or login
 8. Seniors can have a voice call or text chat with volunteers in case they need help. They can also call 911 for emergency help if need be
-9. To watch a demo of the workings of the app, [click here](https://)
+9. To watch a demo of the workings of the app, [click here](https://youtu.be/uSRfV1ef7DI)
 
 <!-- NEW DESIRABLE FUNCTIONALITIES -->
 ## New Desired Functionalities
