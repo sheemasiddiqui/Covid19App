@@ -41,7 +41,7 @@ To get this project up and running follow these simple example steps.
 
 ### Prerequisites
 
-1. Install Figma [here](https://www.figma.com/downloads/) if you haven't already done so and click on the link given [here](https://www.figma.com/file/Z094N8hb5Z9qprQoJ1mpBv/Covid-Help-Part2?node-id=0%3A1 )
+1. Install Figma [here](https://www.figma.com/downloads/) if you haven't already done so and click on the link given [here](https://www.figma.com/file/ZfCTIDRiTlfcB9rjNlEDWE/Covid-Help-App?node-id=0%3A1 )
 2. The link will take you to the project and you can navigate through the screens 
 
 ### Running the App
@@ -87,5 +87,5 @@ Some of the ways this project can be used are as follows:
 <!-- Important Links -->
 ## Important Links
 * YouTube Link to App Demo [Covid-Help](https://youtu.be/uSRfV1ef7DI)
-* Public Figma URL [Figma-Covid-App](https://www.figma.com/file/Z094N8hb5Z9qprQoJ1mpBv/Covid-Help-Part2?node-id=0%3A1) 
+* Public Figma URL [Figma-Covid-App](https://www.figma.com/file/ZfCTIDRiTlfcB9rjNlEDWE/Covid-Help-App?node-id=0%3A1) 
 * _For more examples, please refer to the [Documentation](https://https://github.com/sheemasiddiqui/Covid19App/blob/main/README.md)_
