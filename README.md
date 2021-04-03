@@ -32,7 +32,7 @@ We are all struggling with COVID-19 since its onset and even though the vaccine 
 
 <!-- BUILT WITH -->
 ## Built With
-* FIGMA, which you can download it [here](https://www.figma.com/downloads/)
+* FIGMA, which you can download [here](https://www.figma.com/downloads/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -43,6 +43,9 @@ To get this project up and running follow these simple example steps.
 
 1. Install Figma [here](https://www.figma.com/downloads/) if you haven't already done so and click on the link given [here](https://www.figma.com/file/ZfCTIDRiTlfcB9rjNlEDWE/Covid-Help-App?node-id=0%3A1 )
 2. The link will take you to the project and you can navigate through the screens 
+3. The above link has been modified and split into two important functional areas
+  * One is [Seniors' Centre](https://www.figma.com/file/Cx1GhAMm2p00NXeJulyItY/Covid-Help-App-Senior?node-id=0%3A1)
+  * The second is [Volunteers' Centre](https://www.figma.com/file/Z094N8hb5Z9qprQoJ1mpBv/Covid-Help-App-Volunteer?node-id=0%3A1)
 
 ### Running the App
 
@@ -63,7 +66,9 @@ To get this project up and running follow these simple example steps.
 3. Voice Call
 4. Text Chat
 5. Accessibility Feature for Special needs
-6. Privacy in terms of User Account creation 
+6. Privacy in terms of User Account creation and login
+7. Self assessment of symptoms and connection to an on-call doctor
+8. Location of nearby COVID-19 Assessment Centres 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -74,6 +79,9 @@ Some of the ways this project can be used are as follows:
 * See guides for prevention of covid
 * Use accessibility feature for voice over of the screens - for accessible users
 * Create an account or login to chat with or call a volunteer for help or become a volunteer
+* Get in touch with an on-call Doctor
+* Self-assess for COVID-19 Symptoms
+* View nearby COVID-19 Test centre Locations 
 
 
 ![image](https://user-images.githubusercontent.com/54964531/111852126-3b17b180-88ec-11eb-9657-c0e38db110ac.png)
