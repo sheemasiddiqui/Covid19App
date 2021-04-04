@@ -94,6 +94,9 @@ Some of the ways this project can be used are as follows:
 
 <!-- Important Links -->
 ## Important Links
-* YouTube Link to App Demo [Covid-Help](https://youtu.be/uSRfV1ef7DI)
-* Public Figma URL [Figma-Covid-App](https://www.figma.com/file/ZfCTIDRiTlfcB9rjNlEDWE/Covid-Help-App?node-id=0%3A1) 
+* Link to First Version of the App [here] (https://www.figma.com/file/hocPCIes0QYHHC3a9PXVjK/Cov-App-Figma?node-id=0%3A1)
+* Link to Second Version of the app [here](https://www.figma.com/file/ZfCTIDRiTlfcB9rjNlEDWE/Covid-Help-App?node-id=0%3A1)
+* YouTube Link to Second App Demo [Covid-Help](https://youtu.be/uSRfV1ef7DI)
+* Link to final version of the app [here].
+* Public Figma URL [Figma-Covid-App]() 
 * _For more examples, please refer to the [Documentation](https://https://github.com/sheemasiddiqui/Covid19App/blob/main/README.md)_
