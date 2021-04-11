@@ -1,4 +1,4 @@
-# Covid19App
+# Covid-19 App
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
